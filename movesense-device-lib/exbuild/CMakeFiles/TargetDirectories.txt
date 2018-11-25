@@ -1,0 +1,9 @@
+C:/Users/brian/movesense/JUNCTION2018/movesense-device-lib/exbuild/CMakeFiles/Movesense.dir
+C:/Users/brian/movesense/JUNCTION2018/movesense-device-lib/exbuild/CMakeFiles/dfupkg.dir
+C:/Users/brian/movesense/JUNCTION2018/movesense-device-lib/exbuild/CMakeFiles/backup_manufacturing_data.dir
+C:/Users/brian/movesense/JUNCTION2018/movesense-device-lib/exbuild/CMakeFiles/create_combined_hex.dir
+C:/Users/brian/movesense/JUNCTION2018/movesense-device-lib/exbuild/CMakeFiles/create_hex.dir
+C:/Users/brian/movesense/JUNCTION2018/movesense-device-lib/exbuild/CMakeFiles/flash.dir
+C:/Users/brian/movesense/JUNCTION2018/movesense-device-lib/exbuild/CMakeFiles/flash_all.dir
+C:/Users/brian/movesense/JUNCTION2018/movesense-device-lib/exbuild/CMakeFiles/edit_cache.dir
+C:/Users/brian/movesense/JUNCTION2018/movesense-device-lib/exbuild/CMakeFiles/rebuild_cache.dir

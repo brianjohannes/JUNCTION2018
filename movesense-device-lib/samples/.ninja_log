@@ -1,0 +1,18 @@
+# ninja log v5
+17	226	564778006	generated/app_execution_contexts/resources.c.h	ceaf1c1f5db46dc2
+17	226	564778006	generated/app_execution_contexts/resources.h	ceaf1c1f5db46dc2
+17	226	564778006	generated/app_execution_contexts/resources.cpp	ceaf1c1f5db46dc2
+17	226	564778006	app_execution_contexts.wbo	ceaf1c1f5db46dc2
+6	228	564778006	generated/app-resources/resources.h	9ff88ab32843603e
+6	228	564778006	generated/app-resources/resources.cpp	9ff88ab32843603e
+6	228	564778006	app-resources.wbo	9ff88ab32843603e
+229	716	564778006	app-metadata/metadata.cpp	df4ffa4c01b7ab35
+11	2681	564778008	generated/sbem-code/sbem_definitions.cpp	6f826f2815fdf5f3
+11	2681	564778008	generated/sbem-code/sbem_definitions.h	6f826f2815fdf5f3
+2867	6667	564778012	CMakeFiles/Movesense.dir/app-metadata/metadata.cpp.obj	18e9de4d103c5da1
+2861	6796	564778013	CMakeFiles/Movesense.dir/generated/app-resources/resources.cpp.obj	5ccdb14cfde8b02f
+2682	6896	564778013	CMakeFiles/Movesense.dir/App.cpp.obj	79d53e67139fbe25
+2849	7113	564778013	CMakeFiles/Movesense.dir/SensorOutputService.cpp.obj	77e32d84f98ce44f
+2856	7507	564778013	CMakeFiles/Movesense.dir/generated/sbem-code/sbem_definitions.cpp.obj	c09c22e2e80225fe
+7508	8997	564778015	Movesense	80f3838fff926483
+8998	9130	564778015	Movesense.hex	367d860e134a4bfe

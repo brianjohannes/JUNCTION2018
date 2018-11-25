@@ -1,0 +1,9 @@
+C:/Users/brian/movesense/JUNCTION2018/suunto-movesense-device-lib-c96b25358d86/samples/CMakeFiles/Movesense.dir
+C:/Users/brian/movesense/JUNCTION2018/suunto-movesense-device-lib-c96b25358d86/samples/CMakeFiles/dfupkg.dir
+C:/Users/brian/movesense/JUNCTION2018/suunto-movesense-device-lib-c96b25358d86/samples/CMakeFiles/backup_manufacturing_data.dir
+C:/Users/brian/movesense/JUNCTION2018/suunto-movesense-device-lib-c96b25358d86/samples/CMakeFiles/create_combined_hex.dir
+C:/Users/brian/movesense/JUNCTION2018/suunto-movesense-device-lib-c96b25358d86/samples/CMakeFiles/create_hex.dir
+C:/Users/brian/movesense/JUNCTION2018/suunto-movesense-device-lib-c96b25358d86/samples/CMakeFiles/flash.dir
+C:/Users/brian/movesense/JUNCTION2018/suunto-movesense-device-lib-c96b25358d86/samples/CMakeFiles/flash_all.dir
+C:/Users/brian/movesense/JUNCTION2018/suunto-movesense-device-lib-c96b25358d86/samples/CMakeFiles/edit_cache.dir
+C:/Users/brian/movesense/JUNCTION2018/suunto-movesense-device-lib-c96b25358d86/samples/CMakeFiles/rebuild_cache.dir
